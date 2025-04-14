@@ -1,4 +1,4 @@
-# 🗺️ Favorite Places App
+# 🗺️ PlaceIT
 
 An iOS app built with SwiftUI and MapKit that allows users to save and view their favorite places on an interactive map. Ideal for marking personal landmarks like coffee shops, monuments, or any meaningful location.
 
@@ -23,6 +23,3 @@ An iOS app built with SwiftUI and MapKit that allows users to save and view thei
 
 > *(Add some screenshots here if you'd like to showcase the UI)*
 
-## 🧑‍💻 Project Structure
-
-FavoritePlaces/ ├── Models/ │ └── Place.swift ├── ViewModels/ │ └── MapViewModel.swift ├── Views/ │ ├── ContentView.swift │ └── CustomDialogue.swift ├── Resources/ │ └── Assets.xcassets (Color Set included)
